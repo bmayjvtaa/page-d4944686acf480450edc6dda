@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-81a90d8574.coolpiaoquan.cn/sitemap.xml
